@@ -1,0 +1,7 @@
+{
+    "python.linting.enabled": false,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.insertSpaces": true,
+    "python.linting.enabled": false,
+}
