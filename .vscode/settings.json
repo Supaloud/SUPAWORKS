@@ -1,7 +1,7 @@
 {
     "python.linting.enabled": false,
-    "editor.fontSize": 16,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Menlo, Monaco, Consolas, 'Courier New', monospace",
     "editor.insertSpaces": true,
     "python.linting.enabled": false,
     "python.pythonPath": "C:\\Users\\Supaloud's Diorama\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
