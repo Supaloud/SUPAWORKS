@@ -7,11 +7,11 @@ a = int(a)
 print(a)
 
 # 10번
-try = 10
-1수치 = 5
+# try = 10
+# 1수치 = 5
 admin = 10
-None = 20
-4pple = 10
+# None = 20
+# 4pple = 10
 
 # 11번 
 spk = "\"Supadope\'s Diorama\""
