@@ -9,11 +9,11 @@ def view():
 print("초기 데이터")
 view()
 
-i = 0 
+i = 0
 while i <= 9 :
-    j = j + 1
+    j = 0
     while j <= 9 :
-        if data[i] > data[j] :
+        if data[i] < data[j] :
             t = data[i]
             data[i] = data[j]
             data[j] = t
